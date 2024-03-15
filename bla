@@ -1,0 +1,79 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+January 02, 2024 - 19:03:19
+Django version 5.0, using settings 'cotton.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: cotton_army_worm.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC3FA52C2B0>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 179ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: cotton_army_worm.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC418B405E0>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 27ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: cotton_army_worm.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC3FA4B71F0>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 27ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: cotton_army_worm.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC3FA582D70>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 26ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: cotton_army_worm.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC3FA583E50>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 26ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: cotton_army_worm.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC3F93A87F0>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 26ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: cotton_army_worm.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC418ADAF20>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 26ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: cotton_army_worm.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC418B7B5B0>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 25ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: cotton_army_worm.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC3FA52FAC0>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 29ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: cotton_army_worm.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC418ADBCD0>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 26ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: test_image.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC3FA52FA00>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 32ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: cotton_army_worm.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC3FABA39A0>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 36ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: cotton_army_worm.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC3FA423250>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 32ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: test_image.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC3FA5DF610>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 28ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: test_image.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC3FA5DE080>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 29ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: test_image.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC3FA318F70>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 29ms/step
+<QueryDict: {}>
+<MultiValueDict: {'crop_image': [<InMemoryUploadedFile: test_image.jpg (image/jpeg)>]}>
+<PIL.Image.Image image mode=RGB size=150x150 at 0x7FC3FA318640>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 34ms/step
